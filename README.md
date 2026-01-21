@@ -8,7 +8,7 @@ Minha jornada na tecnologia começou cedo e hoje sigo firme com o objetivo de me
 
 ## 🎓 Formação & Estudos
 - 📚 Estudando **Análise e Desenvolvimento de Sistemas**.  
-- 🚀 Realizando o curso **"T.I do Zero ao Pro"** pela EBAC.  
+- 🚀 Realizando o curso **"Desenvolvedor Full-Stack"** pela EBAC.  
 - 🖥️ Formação de **Técnico em Informática** pelo SENAC (2 anos).  
 
 ---
