@@ -21,7 +21,7 @@ Minha jornada na tecnologia começou cedo e hoje sigo firme com o objetivo de me
 ---
 
 ## 🛠️ Tecnologias & Interesses
-- HTML, CSS, JavaScript e Python
+- HTML, CSS, JavaScript, Python
 - Desenvolvimento Full Stack  
 - Hardware & Infraestrutura  
 - Projetos práticos e desafios de programação  
